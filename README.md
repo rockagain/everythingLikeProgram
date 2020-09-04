@@ -1,0 +1,2 @@
+# everythingLikeProgram
+类似于everything的探索程序，实现了保存，但是没有存入sqlite
